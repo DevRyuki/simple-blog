@@ -1,5 +1,5 @@
 # シンプルなブログ
-
+a
 ![](public/img-cover.png)
 
 microCMS 公式のシンプルなブログのテンプレートです。
